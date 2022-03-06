@@ -19,7 +19,7 @@
   c. Execute in order
       mvn clean -> mvn compile -> mvn verify
   
-  d. Also, one can run the tests directly by navigating to 'src/test/RunCucumberTest', right click and select Run option
+  d. Also, one can run the tests directly by navigating to 'src/test/java/RunCucumberTest', right click and select Run option
   
   e. The report of execution can be found in 'target/Reports/cucumber.json'
 
