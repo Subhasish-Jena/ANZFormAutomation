@@ -26,4 +26,5 @@
 
 #Note
 If the tests are being run on Mac for the first time below command has to be executed on the Project directory
-xattr -d com.apple.quarantine chromedriver 
+
+  xattr -d com.apple.quarantine chromedriver 
