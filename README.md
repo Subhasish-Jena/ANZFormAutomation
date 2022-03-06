@@ -2,9 +2,7 @@
 
 #Project Dependencies
 
-  Java 1.8
-  
-  Selenium Webdriver
+  Java 1.8, Maven
   
 #Tools to use 
  
