@@ -117,6 +117,7 @@ public class HomeLoanPage {
                     }
                 }
         );
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", errorMessage);
         assertTrue("Helpline contact text did not match!!",
                 errorMessage.getText().equals(Constants.contactHelpDeskText));
     }
